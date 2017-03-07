@@ -8,5 +8,5 @@ public class asfdg {
 
 	public void terceroEnDiscordia(){}
 	
-	public void cuarto(){}
+	public void curto(){}
 }
