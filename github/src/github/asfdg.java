@@ -9,4 +9,6 @@ public class asfdg {
 	public void terceroEnDiscordia(){}
 	
 	public void curto(){}
+	
+	public void pruebaDeMergeRamas(){}
 }
